@@ -6,7 +6,7 @@ cara download :
 3. chmod +x ddospython.py
 4. python2 ddospython.py
 
-python2 <hostname> <port> <jumlah serangan ddos>
+python2 hostname,port,jumlah serangan ddos
 contoh :
   python2 120.29.226.121 80 100 ddospython.py
   
@@ -21,7 +21,7 @@ contoh :
  5. chmod +x ddospython.py
  6. python2 ddospython.py
  
- python2 <hostname> <port> <jumlah serangan ddos>
+ python2 hostname,port,jumlah serangan ddos
 contoh :
   python2 120.29.226.121 80 100 ddospython.py
   
