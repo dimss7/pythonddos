@@ -7,8 +7,9 @@ cara download :
 4. python2 ddospython.py
 
 python2 hostname,port,jumlah serangan ddos
+
 contoh :
-  python2 120.29.226.121 80 100 ddospython.py
+  python2 ddospython.py 120.29.226.121 80 100
   
   tekan ENTER
   
@@ -21,9 +22,10 @@ contoh :
  5. chmod +x ddospython.py
  6. python2 ddospython.py
  
- python2 hostname,port,jumlah serangan ddos
+ python2 ddospython.py hostname,port,jumlah serangan ddos
+ 
 contoh :
-  python2 120.29.226.121 80 100 ddospython.py
+  python2 ddospython.py 120.29.226.121 80 100 
   
   tekan ENTER
   
