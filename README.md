@@ -14,6 +14,7 @@ contoh :
   tekan ENTER
   
  Download lewat Termux
+ 
  cara download :
  1. pkg install git
  2. pkg install python2
